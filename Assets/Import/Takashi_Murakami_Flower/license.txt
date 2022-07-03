@@ -1,0 +1,11 @@
+Model Information:
+* title:	Takashi Murakami Flower
+* source:	https://sketchfab.com/3d-models/takashi-murakami-flower-8db0a11ec13048389f5e6a86e73f6c3d
+* author:	Tiko (https://sketchfab.com/tikoavp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Takashi Murakami Flower" (https://sketchfab.com/3d-models/takashi-murakami-flower-8db0a11ec13048389f5e6a86e73f6c3d) by Tiko (https://sketchfab.com/tikoavp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

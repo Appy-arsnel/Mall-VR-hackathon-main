@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gay Pride Flag
+* source:	https://sketchfab.com/3d-models/gay-pride-flag-26a8f24073034890a459d6a2540cc2e3
+* author:	Space XR Academy (https://sketchfab.com/SpaceXRAcademy)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gay Pride Flag" (https://sketchfab.com/3d-models/gay-pride-flag-26a8f24073034890a459d6a2540cc2e3) by Space XR Academy (https://sketchfab.com/SpaceXRAcademy) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

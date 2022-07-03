@@ -1,0 +1,11 @@
+Model Information:
+* title:	LGTBIQ 3D
+* source:	https://sketchfab.com/3d-models/lgtbiq-3d-0b2b371b077f46c8855fa47c02de81d6
+* author:	Ernesto.Sanabria.Gonzalez (https://sketchfab.com/Ernesto.Sanabria.Gonzalez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LGTBIQ 3D" (https://sketchfab.com/3d-models/lgtbiq-3d-0b2b371b077f46c8855fa47c02de81d6) by Ernesto.Sanabria.Gonzalez (https://sketchfab.com/Ernesto.Sanabria.Gonzalez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
