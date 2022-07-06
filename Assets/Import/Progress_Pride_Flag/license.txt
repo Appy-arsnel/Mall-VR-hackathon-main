@@ -1,0 +1,11 @@
+Model Information:
+* title:	Progress Pride Flag
+* source:	https://sketchfab.com/3d-models/progress-pride-flag-6325df53923e473d96eaf82a7b4a07c5
+* author:	Space XR Academy (https://sketchfab.com/SpaceXRAcademy)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Progress Pride Flag" (https://sketchfab.com/3d-models/progress-pride-flag-6325df53923e473d96eaf82a7b4a07c5) by Space XR Academy (https://sketchfab.com/SpaceXRAcademy) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

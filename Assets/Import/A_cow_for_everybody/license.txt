@@ -1,0 +1,11 @@
+Model Information:
+* title:	A cow for everybody
+* source:	https://sketchfab.com/3d-models/a-cow-for-everybody-d546848fb75f4fd780cccc926e92b06c
+* author:	statiusm (https://sketchfab.com/statiusm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A cow for everybody" (https://sketchfab.com/3d-models/a-cow-for-everybody-d546848fb75f4fd780cccc926e92b06c) by statiusm (https://sketchfab.com/statiusm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
