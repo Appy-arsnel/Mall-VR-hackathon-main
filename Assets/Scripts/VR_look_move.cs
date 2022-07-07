@@ -15,19 +15,43 @@ public class VR_look_move : MonoBehaviour
     private CharacterController cc;
     public GameObject UI_canvas, UI_mode,body,Head,ch;
     public ParticleSystem myparticle;
-
-
-
+    // public ParticleSystem particles1;
+    // public ParticleSystem particles2;
+    // public ParticleSystem particles3;
+    // public ParticleSystem particles4;
+    // public ParticleSystem particles5;
+    // public ParticleSystem particles6;
+    // public ParticleSystem particles7;
+    // public ParticleSystem particles8;
+   //public list<ParticleSystem> particles;
+    
 
 
     PhotonView view;
     // Use this for initialization
+    //  void Awake(){
+    //         particles1.Play();
+    //         particles2.Play();
+    //         particles3.Play();
+    //         particles4.Play();
+    //         particles5.Play();
+    //         particles6.Play();
+    //         particles7.Play();
+    //         particles8.Play();
+    //  }
     void Start()
     {   UIactive=false;
             cc = GetComponent<CharacterController>();
         view = GetComponent<PhotonView>();
          UI_mode.SetActive(false);
          isunitychan_active=false;
+        
+        // particles = GameObject.FindGameObjectsWithTag("Particle");
+        
+       
+            
+
+    
         
 
     }
