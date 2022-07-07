@@ -29,6 +29,7 @@ public class VR_look_move : MonoBehaviour
          UI_mode.SetActive(false);
          isunitychan_active=false;
         
+        
 
     }
 
