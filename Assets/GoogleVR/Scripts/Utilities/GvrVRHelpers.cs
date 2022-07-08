@@ -26,6 +26,7 @@ using UnityEngine.XR;
 using UnityEngine.VR;
 using XRNode = UnityEngine.VR.VRNode;
 using XRSettings = UnityEngine.VR.VRSettings;
+
 #endif  // UNITY_2017_2_OR_NEWER
 
 /// <summary>Helper functions common to GVR VR applications.</summary>
@@ -77,7 +78,8 @@ public static class GvrVRHelpers
         }
 #else
         // Not running in editor:
-        return InputTracking.GetLocalRotation(XRNode.Head);
+       
+       // return InputTracking.GetLocalRotation(XRNode.Head);
 #endif // UNITY_EDITOR
     }
 
@@ -95,7 +97,7 @@ public static class GvrVRHelpers
 
         return GvrEditorEmulator.Instance.HeadPosition;
 #else
-        return InputTracking.GetLocalPosition(XRNode.Head);
+       // return InputTracking.GetLocalPosition(XRNode.Head);
 #endif // UNITY_EDITOR
     }
 
